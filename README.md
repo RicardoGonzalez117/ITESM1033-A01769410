@@ -1,1 +1,3 @@
-ITESM1033-A01769410
+# ITESM 1033
+
+# *Pensamiento Computacional Orientado a Objetos*
