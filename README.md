@@ -1,3 +1,3 @@
-# ITESM 1033
+# ITESM TC1033
 
 # *Pensamiento Computacional Orientado a Objetos*
